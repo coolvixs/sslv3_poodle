@@ -1,7 +1,7 @@
 SSLv3 Poodle Detector by passing multiple domains
 =================================================
 
-The following script was provided by Redhat as for informational purposes only to be used as a SSLv3 (POODLE) Detector.
+The following script was provided by Redhat to be used for informational purposes as a SSLv3 (POODLE) Detector.
 
 The following was added to cater for multiple domains
 
