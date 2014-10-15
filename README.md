@@ -7,9 +7,10 @@ The following was added to cater for multiple domains
 
 *	Pass a text file containing list of domains to check</li>
 
-How to use: example
+How to use:
 ```
 $> bash poodle.sh domains.txt
+OR
 $>./poodle.sh domains.txt
 ```
 
